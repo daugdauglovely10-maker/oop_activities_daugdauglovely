@@ -1,3 +1,7 @@
+// Lovely Angela E. Daugdaug
+// BSIT-2B
+// November 2, 2026
+
 public class Main {
 
     public static void main(String[] args) {
